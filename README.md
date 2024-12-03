@@ -1,5 +1,6 @@
-## Tech Stack
+<img width="1373" alt="image" src="https://github.com/user-attachments/assets/0e3c8f1c-b174-49e1-9eea-483e4abdf84b">
 
+## Tech Stack
 ### Backend:
 Node.js: JavaScript runtime for building scalable backend applications.
 Express: Web framework for Node.js, used for creating APIs and handling HTTP requests.
@@ -27,6 +28,7 @@ git clone git@github.com:gtuazon18/file-upload.git
 Navigate to the backend directory:
 ```bash
 cd backend
+```
 Install the necessary dependencies:
 ```bash
 npm install
